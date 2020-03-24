@@ -1,13 +1,14 @@
 # HPL
-A language for programming human organisational systems
+A language for programming human organisational systems.
+HPL is not a computer or spoken language. It is instead a format of writing and collection of principles to help streamline processes and reduce oboarding costs of new human resources.
 
-An HPL program is written by an HPL programmer who develops roles and processes for humans. The job of a human is to identify tasks that need to be completed and execute any of the processes required for their work under their role.  
+An HPL program is written by an HPL programmer who develops roles and processes for humans. It is the job of the HPL programmer to identify errors in the system, create improvements to the system, and to ensure humans are updated with the new instance of thier role.
 
 ## Values
-A set of values used by the HPL programmer to help build the processes
+A set of corporate values used by the HPL programmer to help build the processes. This is documentation used only by the programmer to help with decision making regarding __how__ processes should run.
 
 ## Guidelines
-
+Guidelines outline the overarching rules the HPL programmer needs to abide by when creating processes. This is documentation used only by the programmer 
 
 ## Roles
 A human can identify if work is outsie their role by checking to see if they have any applicable processes
@@ -26,3 +27,4 @@ A role which has processes that manage other roles
 
 ## Human
 Humans are instances of roles. Whenever you create a change to a roles process you need to update the humans who have created an instance of that role.
+The job of a human is to complete tasks by executing processes associated with their role.
