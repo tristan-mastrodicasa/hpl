@@ -2,7 +2,7 @@
 
 ## Guidelines
 
-1. When creating new roles or process, use the provided template
+1. When creating new roles or processes, use the provided templates
 
 ## Instructions
 

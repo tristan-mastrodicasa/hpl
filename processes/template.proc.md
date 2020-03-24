@@ -1,8 +1,8 @@
-# [Name ] Process
+# [Name] Process
 
 ## Guidelines
 
-[Set of rules to abide by while carrying out the task]
+- [Guideline 1]
 
 ## Instructions
 
